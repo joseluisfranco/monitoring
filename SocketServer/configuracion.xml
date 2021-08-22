@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="socketserver.port">1234</entry>
+    <entry key="usuario">pepe</entry>
+    <entry key="clave">pepe</entry>
+</properties>
